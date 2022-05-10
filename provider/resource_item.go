@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/hashicorp/terraform/helper/schema"
+	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/spaceapegames/terraform-provider-example/api/client"
 	"github.com/spaceapegames/terraform-provider-example/api/server"
 )

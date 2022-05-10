@@ -2,3 +2,4 @@
 terraform-provider-example*
 .terraform/*
 terraform.tfstate*
+.terraform.lock.hcl
